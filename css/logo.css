@@ -1,0 +1,24 @@
+.logo {
+  height: 32px;
+  width: 32px;
+  transform: rotate(45deg);
+}
+
+.logo__row {
+  display: flex;
+  height: calc(100% / 3);
+  width: 100%;
+}
+
+.logo__box {
+  height: 100%;
+  position: relative;
+  width: calc(100% / 3);
+}
+
+.logo__display {
+  background-color: #e2e6e8;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+}
