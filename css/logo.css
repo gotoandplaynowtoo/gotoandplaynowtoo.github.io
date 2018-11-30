@@ -1,3 +1,10 @@
+.logo-container {
+  align-items: center;
+  display: flex;
+  height: 40px;
+  justify-content: center;
+  width: 40px;
+}
 .logo {
   height: 32px;
   width: 32px;
